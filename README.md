@@ -22,7 +22,7 @@ GoBarber is a application to make appointments with hairdressers or barbers. The
 
 # :rocket: Features
 
-The web application is exclusive to service providers. The application for customers is the [mobile app](https://github.com/lucas-almeida-silva/gobarber-app)
+The web application is exclusive to service providers. The application for customers is the [mobile app](https://github.com/lucas-almeida-silva/gobarber-app).
 
 ### Users
 

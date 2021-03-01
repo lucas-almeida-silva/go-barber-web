@@ -55,7 +55,7 @@ $ yarn
 $ yarn start
 # or npm start
 ```
-Access the API at http://localhost:3000
+Access the application at http://localhost:3000
 
 To run the application, you need to create the environment variable file at the root of the project. The file should be called **.env**. There is a file called **.env.example** at the root of the project with the necessary variables.
 
